@@ -25,19 +25,17 @@ body,html{
 
 .container > .first-menu > li{
   display: inline-block;
-  padding: 0;
-  margin: 0;
 }
 
 .container > .first-menu > li > a{
   padding: 20px;
-  float: left;
   transition: 0.5s ease-in-out;
   text-decoration: none;
   margin: 0;
   color: red;
   letter-spacing: 4px;
   font-style: italic;
+  display: inline-block;
 }
 
 .container > .first-menu > li > a:hover{
